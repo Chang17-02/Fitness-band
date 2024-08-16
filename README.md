@@ -1,7 +1,7 @@
 # Fitness-band
 This project is a implementation of TinyML for a wearable fitness band using the Arduino Nano 33 BLE Sense and Edge Impulse. The band classifies different physical activities like squats, jumping jacks, and rest positions using machine learning models deployed on a low-power microcontroller. This project also includes the process of collecting training data via Bluetooth Low Energy (BLE) and testing the model in real-time.
 
-Table of Contents:
+Table of Contents:\
 -Things Used
 -Setup
 -Hardware Requirements
